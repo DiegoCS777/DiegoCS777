@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Diego Correia</h1>
-<h3 align="center">A Web Development student from Brazil.</h3>
+<h3 align="center">A Web Developer from Brazil.</h3>
 
-- 🔭 I’m in career transition, currently studying Web Development at [Trybe](https://www.betrybe.com/)
-* 🌱 I’m currently learning Web Developing Front-End and Back-End. I have already gained some knowledge of HTML, CSS, JS, ReactJS, Redux, NodeJS and Java. 
+- 🔭 I’m Web Developer, technology enthusiast in search of new knowledge!
+* 🌱 I am currently focused on AI agent technologies, where I seek to develop solutions that can help people in their daily tasks.
 - 📫 How to reach me? E-mail: **diegomethal@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
